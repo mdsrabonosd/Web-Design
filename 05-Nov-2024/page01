@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>paragraph</title>
+</head>
+<body>
+<h1><u>Careers in artificial intelligence</u></h1>
+<p>
+
+IT professionals interested in careers in artificial intelligence must have data science skills to make the move.<br> Jobs in AI are plentiful, but having specific certifications, knowledge and background are necessary. <br>Get information on job trends in the field of artificial intelligence and how automation technologies influence the data science role.</p>
+<img src="pic/pic3.jpg" height="50%" width="50%">
+<table border="2">
+
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td><center>Alfreds</center> </td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td> comercial Moctezuma</td>
+    <td>Francisco </td>
+    <td>Mexico</td>
+  </tr>
+</table>
+</body>
+</html>
